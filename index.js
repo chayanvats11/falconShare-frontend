@@ -15,7 +15,7 @@ const emailForm = document.querySelector("#emailForm");
 const toast = document.querySelector(".toast");
 
 
-const host = "https://localhost:3000";
+const host = "https://voluble-mermaid-8fc9ab.netlify.app/";
 const uploadURL = `${host}api/files`;
 const emailURL = `${host}api/files/send`;
 
